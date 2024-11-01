@@ -1,0 +1,109 @@
+[03-Aug-2015 23:45:31 UTC] PHP Parse error:  syntax error, unexpected '";?>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/functions/layout/form-payment.php on line 96
+[22-Aug-2015 22:02:47 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.938.2015.08.22', '1', '300,00', 'PAC  (R$14.80)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 00:20:07 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.228.2015.08.23', '1', '2,50', 'SEDEX (R$0.00)', 'undefined', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 00:21:36 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.381.2015.08.23', '1', '180,00', 'SEDEX (R$0.00)', 'undefined', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 14:57:38 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.7.2015.08.23', '1', '180,00', 'SEDEX (R$0.00)', 'undefined', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:02:00 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.627.2015.08.23', '1', '300,00', 'SEDEX (R$0.00)', 'undefined', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:04:08 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.632.2015.08.23', '1', '300,00', 'SEDEX (R$0.00)', 'undefined', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:05:49 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.162.2015.08.23', '1', '300,00', 'SEDEX (R$0.00)', 'undefined', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:10:17 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.573.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:17:09 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.354.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:21:55 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.54.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:27:32 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.936.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 15:36:49 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.126.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:02:22 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.491.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:23:12 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.497.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:38:56 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.467.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:40:24 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.766.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:43:17 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.633.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:44:24 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.101.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:46:37 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.750.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:47:43 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.827.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:48:37 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.73.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:53:19 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.388.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:56:58 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.593.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:57:05 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.734.2015.08.23', '1', '300,00', 'PAC  (R$0.00)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:57:19 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.71.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:58:20 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.204.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 17:59:08 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.90.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:01:40 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.78.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:01:58 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.381.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:05:51 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.937.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:08:33 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.8140.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:08:39 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.6889.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:11:53 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_cliente`,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.6686.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:12:03 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_cliente`,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.7121.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 18:12:13 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_cliente`,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.6617.2015.08.23', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '' , '0');
+        feita por gerarPedido
+[23-Aug-2015 20:26:48 UTC] PHP Warning:  include_once(pgs.php): failed to open stream: No such file or directory in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/functions/payment/Gerencianet/Gerencianet_response.php on line 104
+[23-Aug-2015 20:26:48 UTC] PHP Warning:  include_once(): Failed opening 'pgs.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/phpQuery/:/home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/phpQuery/plugins/') in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/functions/payment/Gerencianet/Gerencianet_response.php on line 104
+[23-Aug-2015 20:26:48 UTC] PHP Fatal error:  Class 'pgs' not found in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/functions/payment/Gerencianet/Gerencianet_response.php on line 108

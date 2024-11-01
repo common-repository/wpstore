@@ -1,0 +1,6 @@
+[25-Mar-2014 21:45:38] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Cielo/includes/include.php on line 40
+[06-Apr-2014 08:55:54] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Cielo/includes/include.php on line 40
+[06-Apr-2014 18:25:21] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Cielo/includes/include.php on line 40
+[10-Apr-2014 00:30:50] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Cielo/includes/include.php on line 40
+[10-Apr-2014 00:30:50] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Cielo/includes/include.php on line 40
+[18-Feb-2015 23:50:58] PHP Fatal error:  Call to undefined function  get_option() in /home/storage/9/a6/a6/cfcarehospitalar/public_html/wp-content/plugins/wpstore/includes/functions/payment/Cielo/includes/include.php on line 40

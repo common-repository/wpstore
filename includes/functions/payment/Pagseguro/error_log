@@ -1,0 +1,2 @@
+[26-Mar-2014 18:27:50] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Pagseguro/novoPedidoAguardeAjax.php on line 2
+[02-Apr-2014 13:43:34] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Pagseguro/Pagseguro_response.php on line 2

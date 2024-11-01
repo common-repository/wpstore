@@ -1,0 +1,4 @@
+[19-Mar-2014 11:29:38] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Moip/novoPedidoAguardeAjax.php on line 4
+[19-Mar-2014 11:29:39] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Moip/Moip_response.php on line 4
+[26-Mar-2014 17:30:16] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Moip/novoPedidoAguardeAjax.php on line 4
+[27-Mar-2014 02:59:10] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Moip/Moip_response.php on line 4

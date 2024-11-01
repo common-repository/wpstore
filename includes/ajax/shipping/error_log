@@ -1,0 +1,30 @@
+[22-Aug-2015 18:57:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 18:57:38 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 18:59:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 19:01:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 19:19:55 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 19:31:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 20:14:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/checkoutAjax.php on line 45
+[22-Aug-2015 23:18:07 UTC] PHP Warning:  Missing argument 7 for gerarPedido(), called in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php on line 85 and defined in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/functions/custom_product_functions.php on line 902
+[22-Aug-2015 23:18:07 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.6.2015.08.22', '1', '2.499,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido
+[22-Aug-2015 23:26:06 UTC] PHP Warning:  Missing argument 7 for gerarPedido(), called in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php on line 89 and defined in /home/remind/public_html/projetos/wpstore/wp-content/plugins/wpstore/includes/functions/custom_product_functions.php on line 902
+[22-Aug-2015 23:26:06 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.860.2015.08.22', '1', '180,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido
+[22-Aug-2015 23:33:10 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.645.2015.08.22', '1', '2.499,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido
+[22-Aug-2015 23:50:23 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.184.2015.08.22', '1', '300,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido
+[23-Aug-2015 00:03:42 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.323.2015.08.23', '1', '2.499,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido
+[23-Aug-2015 00:05:39 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.383.2015.08.23', '1', '2.499,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido
+[23-Aug-2015 00:18:47 UTC] Erro de banco de dados do WordPress Unknown column 'extras' in 'field list' para a consulta INSERT INTO `wploja_wpstore_orders` (`id` ,`id_pedido` ,`id_usuario` ,`valor_total` ,`frete` ,`tipo_pagto` ,`status_pagto` ,`comentario_admin`,`extras`)
+              VALUES ( NULL , '1.398.2015.08.23', '1', '2.499,00', 'SEDEX (R$14.90)', 'Pagseguro', 'PENDENTE', '' , '');
+        feita por include('/plugins/wpstore/includes/ajax/shipping/saveOrderAjax.php'), gerarPedido

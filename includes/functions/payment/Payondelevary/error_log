@@ -1,0 +1,1 @@
+[28-Mar-2014 23:40:38] PHP Fatal error:  Call to undefined function  get_option() in /home/cfcar637/public_html/wp-content/plugins/wpstore/includes/functions/payment/Payondelevary/Payondelevary_response.php on line 2
